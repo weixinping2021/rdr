@@ -4,7 +4,7 @@
 
 按照阿里云的redis离线分析rdb文件的功能做的一个功能
 ![alt text](image.png)
-![alt text](image-1.png)
+![alt text](image1.png)
 ## Live Development
 
 To run in live development mode, run `wails dev` in the project directory. This will run a Vite development
