@@ -2,11 +2,9 @@
 
 ## About
 
-This is the official Wails Vue template.
-
-You can configure the project by editing `wails.json`. More information about the project settings can be found
-here: https://wails.io/docs/reference/project-config
-
+按照阿里云的redis离线分析rdb文件的功能做的一个功能
+![alt text](image.png)
+![alt text](image-1.png)
 ## Live Development
 
 To run in live development mode, run `wails dev` in the project directory. This will run a Vite development
